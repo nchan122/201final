@@ -1,0 +1,102 @@
+.common {
+    text-align: center;
+    font-family: 'Segoe UI', 'Helvetica', sans-serif;
+}
+
+.header {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    color:white;
+    font-size: 80px;
+    text-align: center;
+}
+
+.image {
+    background-image: url(../assets/img/ange.jpeg);
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+.mainbody {
+    background-color: #f0f0f0;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    height: 40px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+nav {
+    background-color: #f0f0f0;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.nav a {
+    color: #333;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.nav a:hover {
+    background-color: #ddd;
+}
+
+.body {
+    font-size: 18px;
+}
+
+.tableauplaceholder {
+    display: block;
+    margin: 20px auto;
+    width: 70%;
+}
+
+ol {
+    list-style-position: inside;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: left;
+}
+
+.li {
+    text-align: left;
+}
+
+.break {
+    margin: 0 20%;
+}
+
+.bottom {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    color: #777;
+}
